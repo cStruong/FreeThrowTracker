@@ -4,8 +4,8 @@ Track video of a free throw shot from the side using image recognition via [AWS 
 
 ![demoGIF](./Demo%20Media/Outputs/demo.gif)
 
-<img src="./Demo%20Media/Outputs/demo.gif" width="500" height="500">
-<img src="./Demo%20Media/Outputs/demo2.gif" width="500" height="500">
+<img src="./Demo%20Media/Outputs/demo.gif" width="300">
+<img src="./Demo%20Media/Outputs/demo2.gif" width="300">
 
 
 >Original: 
