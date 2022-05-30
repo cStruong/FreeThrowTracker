@@ -4,11 +4,13 @@ Track video of a free throw shot from the side using image recognition via [AWS 
 
 ![demoGIF](./Demo%20Media/Outputs/demo.gif)
 
+<img src="./Demo%20Media/Outputs/demo.gif" width="100" height="100">
+
 >Original: 
 >[SimpleStatTracker](https://github.com/wnwanne/SimpleStatsTracker) /[ball_tracker_capstone](https://github.com/wnwanne/ball_tracker_capstone) 
 > by @cStruong, @wnwanne, @DasilvaB, @croccale
 
 > CV project to track motion of a ball
->The "Demo Media" folder contains the videos you can use to run the cod (try to keep them within 1-3 seconds for optimal time efficiency)
+>The "Demo Media" folder contains the videos you can use to run the code (try to keep them within 1-3 seconds for optimal time efficiency)
 >You also need to use VLC media player to view .AVI output videos
 
