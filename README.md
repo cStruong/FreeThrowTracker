@@ -2,6 +2,8 @@
 
 Track video of a free throw shot from the side using image recognition via [AWS Rekognition](https://aws.amazon.com/rekognition/) service. This application will calculate the free throw release angle as well as initial velocity of a free throw shot using image recognition to help track your free throw shooting.
 
+![demoGIF](./Demo%20Media/Outputs/demo.gif)
+
 >Original: 
 >[SimpleStatTracker](https://github.com/wnwanne/SimpleStatsTracker) /[ball_tracker_capstone](https://github.com/wnwanne/ball_tracker_capstone) 
 > by @cStruong, @wnwanne, @DasilvaB, @croccale
