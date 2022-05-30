@@ -4,7 +4,9 @@ Track video of a free throw shot from the side using image recognition via [AWS 
 
 ![demoGIF](./Demo%20Media/Outputs/demo.gif)
 
-<img src="./Demo%20Media/Outputs/demo.gif" width="100" height="100">
+<img src="./Demo%20Media/Outputs/demo.gif" width="500" height="500">
+<img src="./Demo%20Media/Outputs/demo2.gif" width="500" height="500">
+
 
 >Original: 
 >[SimpleStatTracker](https://github.com/wnwanne/SimpleStatsTracker) /[ball_tracker_capstone](https://github.com/wnwanne/ball_tracker_capstone) 
